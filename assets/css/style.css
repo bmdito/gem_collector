@@ -1,0 +1,138 @@
+
+body {
+    background-image:url("../../assets/images/garfield.jpg");
+    background-size:cover;
+}
+.hiddenNumArea {
+    height:100px;
+    width:100px;
+    border:2px solid black;
+}
+
+.foodItems {
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    margin-top: 5%;
+}
+
+
+.foods {
+    height:200px;
+    width:200px;
+    border:2px solid lightblue;
+    box-shadow: 5px 5px 5px rgba(0,0,0,.5);
+    transition: box-shadow .5s;
+}
+
+.foods:hover {
+    box-shadow: 15px 15px 15px rgba(0,0,0,.5);
+    cursor:pointer;
+}
+
+img{
+    width:25px;
+}
+.garfieldImg {
+    height:300px;
+    width:300px;
+}
+
+#winLoss {
+    background-color:orange;
+    border:2px solid black;
+    margin-right: 75%;
+}
+
+#header {
+    text-align:center;
+    color:orange;
+    font-weight: bolder;
+
+}
+
+#goalNum{
+    border:2px solid black;
+    margin-right:75%;
+    background-color:orange;
+}
+
+#theNumber {
+    font-size:40px;
+    font-weight:bold;
+}
+
+#currentFood {
+    border:2px solid black;
+    font-size:20px;
+    background-color: orange;
+    
+    margin-right:75%;
+}
+
+/* #wrapper {
+    display:grid;
+    grid-gap:1em;
+    grid-column: 5% 200px 200px 200px auto 5%; 
+    grid-row: auto auto auto auto auto auto;
+}
+
+#header {
+    border: 2px solid black;
+    grid-area: 1/1/1/6; 
+}
+
+#subHeader {
+    border:2px solid black;
+    grid-area: 2/1/2/6;
+}
+
+#garfield {
+    border:2px solid black;
+    grid-area: 3/2/4/3;
+}
+
+.garfieldImg {
+    height:300px;
+    width:300px;
+}
+
+#goalNum {
+    border:2px solid black;
+    grid-area: 3/4/3/4;
+}
+
+#winLoss {
+    border:2px solid black;
+    grid-area: 2/4/3/5;
+}
+
+#currentFood {
+    border:2px solid black;
+    grid-area:3/4/4/3;
+}
+
+#french {
+    border:2px solid black;
+    grid-area:5/1/5/2;
+}
+
+#hotDog {
+    border:2px solid black;
+    grid-area:5/2/5/3;
+}
+
+#pizza {
+    border:2px solid black;
+    grid-area:5/3/5/4;
+}
+
+#ham {
+    border:2px solid black;
+    grid-area:5/4/5/5;
+}
+
+.foodIcons {
+    height: 250px;
+    width:200px;
+} */
