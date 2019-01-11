@@ -29,7 +29,7 @@ var startGame = function (){
     var images = [
         "https://www.joyofkosher.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_647/MTMxNzY2MjEwNTk2NDk5NDI2/crispy-french-fries.webp",
         "https://2wk128489wjq47m3kwxwe9hh-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/burgers_main-bacon-cheeseburger-hamburger-stand.jpg",
-        "https://vignette.wikia.nocookie.net/central/images/7/76/Hot_dog.png/revision/latest/scale-to-width-down/640?cb=20150106161448",
+        "https://www.thewholesomedish.com/wp-content/uploads/2018/07/Best-Lasagna-550.jpg",
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbIAOd_aI4I75OM_AUn1VA6nQ7WqJhnWBKKDdGTx2aPo0B-L3DJA"
     ]
     
